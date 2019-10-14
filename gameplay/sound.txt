@@ -1,0 +1,1 @@
+playsound("path",NULL,SND_ASYNC)  in main above iInitialize
